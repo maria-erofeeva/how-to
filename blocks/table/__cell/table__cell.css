@@ -1,0 +1,11 @@
+.table__cell {
+    display: flex;
+    padding: 0;
+    flex-direction: column;
+    width: 250px;
+    box-sizing: border-box;
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 60px;
+  }
